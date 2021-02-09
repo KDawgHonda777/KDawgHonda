@@ -1,6 +1,6 @@
 /*
  * Nightbot command:
- * !editcom -ul=everyone -cd=30 !boom $(eval boom(); $(urlfetch json https://raw.githubusercontent.com/PhilHoff84/broughy1322/master/boom.js);)
+ * !editcom -ul=everyone -cd=30 !boom $(eval boom(); $(urlfetch json https://https://raw.githubusercontent.com/KDawgHonda777/KDawgHonda777/main/command.js);)
  */
 function boom() {
     var result = '';
