@@ -1,16 +1,34 @@
-### Hi there 👋
+/*
+ * Nightbot command:
+ * !editcom -ul=everyone -cd=30 !sports $(eval sports(); $(urlfetch json https://raw.githubusercontent.com/KDawgHonda777/KDawgHonda777/master/boom.js);)
+ */
+function boom() {
+    var result = '';
+    result += randomBetween(0, 1) == 0 ? 'B' : 'b';
 
-<!--
-**KDawgHonda777/KDawgHonda777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    var n = randomBetween(2, 10);
+    for (var i = 0; i < n; i++) {
+        switch(randomBetween(0, 2)) {
+            case 0: {
+                result += 'O';
+                break;
+            }
+            case 1: {
+                result += 'o';
+                break;
+            }
+            case 2: {
+                result += '0';
+                break;
+            }
+        }
+    }
 
-Here are some ideas to get you started:
+    result += randomBetween(0, 1) == 0 ? 'M' : 'm';
+    return result;
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+function randomBetween(min, max) {
+    /* min <= result <= max */
+    return Math.floor(Math.random() * (max - min + 1) + min);
+}
