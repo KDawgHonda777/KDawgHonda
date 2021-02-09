@@ -1,34 +1,83 @@
 /*
  * Nightbot command:
- * !editcom -ul=everyone -cd=30 !boom $(eval boom(); $(urlfetch json https://https://raw.githubusercontent.com/KDawgHonda777/KDawgHonda777/main/command.js);)
+ * !editcom -ul=everyone -cd=30 !sports $(eval randomCar(); $(urlfetch json https://raw.githubusercontent.com/PhilHoff84/KDawgHonda/master/random-sports.js);)
  */
-function boom() {
-    var result = '';
-    result += randomBetween(0, 1) == 0 ? 'B' : 'b';
-
-    var n = randomBetween(2, 10);
-    for (var i = 0; i < n; i++) {
-        switch(randomBetween(0, 2)) {
-            case 0: {
-                result += 'O';
-                break;
-            }
-            case 1: {
-                result += 'o';
-                break;
-            }
-            case 2: {
-                result += '0';
-                break;
-            }
-        }
-    }
-
-    result += randomBetween(0, 1) == 0 ? 'M' : 'm';
-    return result;
-}
-
-function randomBetween(min, max) {
-    /* min <= result <= max */
-    return Math.floor(Math.random() * (max - min + 1) + min);
+function randomCar() {
+  var cars = [
+    "Itali GTO",
+    "Pariah",
+    "Itali RSX",
+    "Neo",
+    "Comet SR",
+    "Imorgon",
+    "Issi Sport",
+    "Paragon R",
+    "Jugular",
+    "Elegy RH8",
+    "Sultan Classic",
+    "Feltzer",
+    "Neon",
+    "Jester (Racecar)",
+    "Elegy Retro Custom",
+    "Schlagen GT",
+    "8F Drafter",
+    "Jester",
+    "Massacro (Racecar)",
+    "Massacro",
+    "Flash GT",
+    "Coquette D10",
+    "9F",
+    "9F Cabrio",
+    "V-STR",
+    "Revolter",
+    "Komoda",
+    "Specter Custom",
+    "Bestia GTS",
+    "Specter",
+    "Penumbra FF",
+    "Raiden",
+    "Surano",
+    "Seven-70",
+    "Locust",
+    "Schafter V12",
+    "Comet",
+    "Comet Retro Custom",
+    "Sentinel Classic",
+    "Verlierer",
+    "Carbonizzare",
+    "Alpha",
+    "Sultan",
+    "Banshee",
+    "Jester Classic",
+    "Coquette",
+    "GB200",
+    "Kuruma",
+    "Tropos Rallye",
+    "Hotring Sabre",
+    "Lynx",
+    "Omnis",
+    "Sprunk Buffalo",
+    "Comet Safari",
+    "Buffalo S",
+    "Ruston",
+    "Khamelion",
+    "Drift Tampa",
+    "Rapid GT",
+    "Rapid GT Cabrio",
+    "Furore GT",
+    "Buffalo",
+    "Fusilade",
+    "Sugoi",
+    "Kuruma (Armored)",
+    "Schafter LWB",
+    "Schwartzer",
+    "Raptor",
+    "Penumbra",
+    "Futo",
+    "Streiter",
+    "Go Go Monkey Blista",
+    "Blista Compact"
+  ];
+  var i = Math.floor(Math.random() * cars.length);
+  return cars[i];
 }
