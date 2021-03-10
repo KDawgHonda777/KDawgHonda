@@ -8,7 +8,7 @@ function randomCar() {
     "Pariah",
     "Comet SR",
     "Imorgon",
-    "Issi Sport",
+    "Pathetic Easy Mode",
     "Paragon R",
     "Jugular",
     "Elegy RH8",
