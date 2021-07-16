@@ -12,6 +12,7 @@ function randomCar() {
     "Dominator GTX",
     "Blade",
     "Dukes",
+    "Vamos",
     "Gauntlet HellDawg",
     "Ruiner",
     "Duke O'Death",
