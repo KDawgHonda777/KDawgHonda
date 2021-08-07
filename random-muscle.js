@@ -4,6 +4,8 @@
  */
 function randomCar() {
   var cars = [
+    "Dominator ASP",
+    "Dominator GTT"
     "Yosemite",
     "Pisswasser Dominator",
     "Sabre Turbo Custom",
