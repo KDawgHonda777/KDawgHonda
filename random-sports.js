@@ -13,7 +13,7 @@ function randomCar() {
     "Jugular",
     "Elegy RH8",
     "Sultan Classic",
-    "Calico GTF,
+    "Calico GTF",
     "Feltzer",
     "Neon",
     "Jester (Racecar)",
