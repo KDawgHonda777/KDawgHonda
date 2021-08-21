@@ -56,6 +56,7 @@ function randomCar() {
     "Rapid GT",
     "Fusilade",
     "Kuruma (Armored)",
+    "Futo GTX",
     "Schwartzer",
     "Penumbra",
     "Futo",
