@@ -13,6 +13,7 @@ function randomCar() {
     "Jugular",
     "Elegy RH8",
     "Sultan Classic",
+    "Sultan RS Classic",
     "Vectre",
     "Calico GTF",
     "Feltzer",
