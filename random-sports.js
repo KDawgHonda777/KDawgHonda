@@ -32,6 +32,7 @@ function randomCar() {
     "Jester RR",
     "Bestia GTS",
     "Specter",
+    "Cypher",
     "Raiden",
     "Seven-70",
     "Locust",
