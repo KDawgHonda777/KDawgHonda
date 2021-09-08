@@ -14,6 +14,7 @@ function randomCar() {
     "Dominator GTX",
     "Blade",
     "Dukes",
+    "Coquette Blackfin",
     "Vamos",
     "Gauntlet HellDawg",
     "Ruiner",
