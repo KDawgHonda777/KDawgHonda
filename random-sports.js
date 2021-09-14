@@ -50,6 +50,7 @@ function randomCar() {
     "Banshee",
     "Jester Classic",
     "Coquette",
+    "RT3000", 
     "Kuruma",
     "Tropos Rallye",
     "Hotring Sabre",
