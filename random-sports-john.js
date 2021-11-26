@@ -1,0 +1,62 @@
+/*
+ * Nightbot command:
+ * !editcom -ul=everyone -cd=30 !sports $(eval randomCar(); $(urlfetch json https://raw.githubusercontent.com/KDawgHonda777/KDawgHonda/main/random-sports.js);)
+ */
+function randomCar() {
+  var cars = [
+    "Itali GTO",
+    "Pariah",
+    "Itali RSX",
+    "Neo",
+    "Imorgon",
+    "Comet SR",
+    "Issi Sport",
+    "Jugular",
+    "Elegy RH8",
+    "Sultan Classic",
+    "Sultan RS Classic",
+    "Vectre",
+    "Calico GTF",
+    "Feltzer",
+    "Growler",
+    "Neon",
+    "Jester (Racecar)",
+    "Elegy Retro Custom",
+    "Schlagen GT",
+    "Massacro (Racecar)",
+    "Massacro",
+    "Flash GT",
+    "Coquette D10",
+    "9F",
+    "Revolter",
+    "Specter Custom",
+    "Jester RR",
+    "Bestia GTS",
+    "Surano",
+    "Comet S2",
+    "Schafter V12",
+    "Comet",
+    "Comet Retro Custom",
+    "Sentinel Classic",
+    "Verlierer",
+    "Alpha",
+    "Sultan",
+    "Banshee",
+    "Stirling GT",
+    "GB200", 
+    "Kuruma",
+    "Tropos Rallye",
+    "Hotring Sabre",
+    "Omnis",
+    "Sprunk Buffalo",
+    "Comet Safari",
+    "Drift Tampa",
+    "Rapid GT",
+    "Kuruma (Armored)",
+    "Futo GTX",
+    "Futo",
+    "Go Go Monkey Blista Compact"
+  ];
+  var i = Math.floor(Math.random() * cars.length);
+  return cars[i];
+}
