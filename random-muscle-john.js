@@ -40,7 +40,7 @@ function randomCar() {
     "Ellie",
     "Peyote Gasser",
     "Lurcher",
-    'Faction Custom Donk",
+    "Faction Custom Donk",
     "Picador",
     "Hotknife",
     "Lost Slamvan",
