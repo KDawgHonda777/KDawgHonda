@@ -23,6 +23,7 @@ function randomCar() {
     "Jester (Racecar)",
     "Elegy Retro Custom",
     "Schlagen GT",
+    "8F Drafter",
     "Massacro (Racecar)",
     "Massacro",
     "Flash GT",
