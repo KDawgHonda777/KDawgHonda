@@ -34,6 +34,7 @@ function randomCar() {
     "Jester RR",
     "Bestia GTS",
     "Surano",
+    "Comet S2 Cabrio",
     "Comet S2",
     "Schafter V12",
     "Comet",
