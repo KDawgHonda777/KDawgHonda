@@ -42,7 +42,6 @@ function randomCar() {
     "Peyote Gasser",
     "Lurcher",
     "Faction Custom Donk",
-    "Faction",
     "Picador",
     "Hotknife",
     "Lost Slamvan",
