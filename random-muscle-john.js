@@ -9,6 +9,7 @@ function randomCar() {
     "Dominator GTT",
     "Yosemite",
     "Pisswasser Dominator",
+    "Arbiter GT",
     "Sabre Turbo Custom",
     "Clique",
     "Drift Yosemite",
