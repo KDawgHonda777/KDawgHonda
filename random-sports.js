@@ -5,7 +5,7 @@
 function randomCar() {
   var cars = [
     "Itali GTO",
-    "S95 (HSW)",
+    "S95",
     "Pariah",
     "Comet SR",
     "Imorgon",
