@@ -66,6 +66,7 @@ function randomCar() {
     "Schwartzer",
     "Penumbra",
     "Futo",
+    "Go Go Monkey Blista",
     "Blista Compact"
   ];
   var i = Math.floor(Math.random() * cars.length);
