@@ -58,7 +58,7 @@ function randomCar() {
     "Kuruma (Armored)",
     "Futo GTX",
     "Futo",
-    "Go Go Monkey Blista Compact"
+    "Go Go Monkey Blista"
   ];
   var i = Math.floor(Math.random() * cars.length);
   return cars[i];
