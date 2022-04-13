@@ -61,6 +61,7 @@ function randomCar() {
     "Drift Tampa",
     "Rapid GT",
     "Fusilade",
+    "Sugoi",
     "Kuruma (Armored)",
     "Futo GTX",
     "Schwartzer",
