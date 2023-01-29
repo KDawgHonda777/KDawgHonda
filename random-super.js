@@ -7,6 +7,7 @@ function randomCar() {
     "Weaponized Ingus",
     "Cyclone II",
     "Emerus",
+    "Deveste Eight", 
     "Krieger",
     "Vagner", 
     "S80RR", 
@@ -14,7 +15,6 @@ function randomCar() {
     "RE-7B", 
     "XA-21", 
     "Autarch", 
-    "Deveste Eight", 
     "Tempesta", 
     "Zentorno", 
     "Nero Custom", 
@@ -36,10 +36,15 @@ function randomCar() {
     "Itali GTB Custom", 
     "Infernus", 
     "811", 
+    "GP1", 
+    "Entity XXR", 
+    "Sultan RS V", 
     "Sultan RS", 
     "Banshee 900R", 
+    "Champion V", 
     "Champion", 
-    "Adder"
+    "Adder", 
+    "Taipan"
   ];
   var i = Math.floor(Math.random() * cars.length);
   return cars[i];
