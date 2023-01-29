@@ -4,7 +4,9 @@
  */
 function randomCar() {
   var cars = [
+    "Vigero ZX", 
     "Buffalo STX",
+    "Weevil Custom", 
     "Dominator ASP",
     "Dominator GTT",
     "Yosemite",
@@ -12,6 +14,7 @@ function randomCar() {
     "Arbiter GT",
     "Sabre Turbo Custom",
     "Clique",
+    "Ruiner ZZ-8", 
     "Drift Yosemite",
     "Dominator GTX",
     "Blade",
@@ -23,6 +26,7 @@ function randomCar() {
     "Duke O'Death",
     "Sabre Turbo",
     "Gauntlet Classic Custom",
+    "Tahoma Coupe", 
     "Hermes",
     "Redwood Gauntlet",
     "Slamvan Custom",
