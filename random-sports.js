@@ -29,6 +29,7 @@ function randomCar() {
     "Sentinel Classic Widebody", 
     "Massacro (Racecar)",
     "Flash GT",
+    "300R", 
     "Coquette D10",
     "9F",
     "Revolter",
