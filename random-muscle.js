@@ -39,6 +39,7 @@ function randomCar() {
     "Ellie",
     "Nightshade",
     "Picador",
+    "Broadway", 
     "Lost Slamvan",
     "Voodoo Custom",
     "Rat-Truck",
