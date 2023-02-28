@@ -9,6 +9,7 @@ function randomCar() {
     "Emerus",
     "Deveste Eight", 
     "Krieger",
+    "LM87", 
     "Vagner", 
     "S80RR", 
     "Thrax", 
