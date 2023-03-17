@@ -12,6 +12,7 @@ function randomCar() {
     "LM87", 
     "Vagner", 
     "S80RR", 
+    "Virtue", 
     "Thrax", 
     "RE-7B", 
     "XA-21", 
