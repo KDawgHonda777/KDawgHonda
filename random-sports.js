@@ -32,6 +32,7 @@ function randomCar() {
     "300R", 
     "Coquette D10",
     "9F",
+    "V-STR", 
     "Revolter",
     "Komoda",
     "Specter Custom",
