@@ -63,6 +63,7 @@ function randomCar() {
     "Tropos Rallye",
     "Lynx",
     "Omnis",
+    "Sprunk Buffalo", 
     "ZR350",
     "Khamelion", 
     "Drift Tampa",
