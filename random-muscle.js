@@ -28,6 +28,7 @@ function randomCar() {
     "Gauntlet Classic Custom",
     "Tahoma Coupe", 
     "Hermes",
+    "Burger Shot Stallion", 
     "Redwood Gauntlet",
     "Slamvan Custom",
     "Tampa",
