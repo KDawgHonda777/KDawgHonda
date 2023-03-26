@@ -17,6 +17,7 @@ function randomCar() {
     "RE-7B", 
     "XA-21", 
     "Autarch", 
+    "Entity MT", 
     "Tempesta", 
     "Zentorno", 
     "Nero Custom", 
@@ -38,6 +39,7 @@ function randomCar() {
     "Itali GTB Custom", 
     "Infernus", 
     "811", 
+    "Cheetah", 
     "GP1", 
     "Entity XXR", 
     "Sultan RS V", 
@@ -46,7 +48,8 @@ function randomCar() {
     "Champion V", 
     "Champion", 
     "Adder", 
-    "Taipan"
+    "Taipan", 
+    "Bullet"
   ];
   var i = Math.floor(Math.random() * cars.length);
   return cars[i];
