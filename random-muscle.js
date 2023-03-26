@@ -29,6 +29,7 @@ function randomCar() {
     "Tahoma Coupe", 
     "Hermes",
     "Burger Shot Stallion", 
+    "Tulip M-100", 
     "Redwood Gauntlet",
     "Slamvan Custom",
     "Tampa",
@@ -43,6 +44,7 @@ function randomCar() {
     "Picador",
     "Broadway", 
     "Lost Slamvan",
+    "Chino Custom", 
     "Voodoo Custom",
     "Rat-Truck",
     "Slamvan"
