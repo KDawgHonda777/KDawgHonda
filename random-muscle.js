@@ -5,6 +5,7 @@
 function randomCar() {
   var cars = [
     "Vigero ZX", 
+    "Buffalo EVX", 
     "Buffalo STX",
     "Weevil Custom", 
     "Dominator ASP",
