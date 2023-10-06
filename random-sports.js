@@ -68,6 +68,7 @@ function randomCar() {
     "Lynx",
     "Omnis",
     "Sprunk Buffalo", 
+    "Hotring Hellfire", 
     "ZR350",
     "Khamelion", 
     "Drift Tampa",
