@@ -18,7 +18,7 @@ function randomCar() {
     "XA-21", 
     "Autarch", 
     "Tempesta", 
-    'Visione", 
+    "Visione", 
     "Entity MT", 
     "ETR1", 
     "X80 Proto", 
