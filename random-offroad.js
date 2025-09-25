@@ -28,7 +28,7 @@ function randomCar() {
     "Yosemite Rancher", 
     "Insurgent", 
     "Injection", 
-    "Dune", 
+    "Majestic Dune", 
     "Dubsta 6x6", 
     "Merryweather Mesa", 
     "Patriot Mil-Spec", 
