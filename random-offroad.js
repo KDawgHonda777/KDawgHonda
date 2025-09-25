@@ -4,7 +4,7 @@
  */
 function randomCar() {
   var cars = [
-    "Mo", 
+    "MonstroCiti", 
     "Firebolt ASP", 
     "Draugur", 
     "Vagrant", 
