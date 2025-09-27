@@ -28,7 +28,7 @@ function randomCar() {
     "ETR1", 
     "Furia", 
     "X80 Proto", 
-    "Tereract", 
+    "Tezeract", 
     "T20", 
     "Osiris", 
     "Nero Custom", 
